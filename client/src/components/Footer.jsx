@@ -219,9 +219,6 @@ const Footer = () => {
 
             <div className="mt-5 text-gray-400">
 
-              <p>
-                Team: AI Avengers
-              </p>
 
               <p>
                 College: Meerut Institute of Technology
